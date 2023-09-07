@@ -7,39 +7,28 @@ sub-titulo: por Giulia Blainner
 
 -SOBRE MIM
 (foto minha)
-Olá, me chamo Giulia Blainner e sou uma designer visual e ilustradora que reside no Brasil.
-Desenhar sempre foi minha paixão, por isso sempre tenho um carinho especial pelo mundo da ilustração.
-Tenho experiência nas áreas de criação de identidade visual, um pouco de design de embalagem, estratégia de marca e é claro, ilustração.
-Pretendo continuar me aprimorando nas áreas que já possuo conhecimento e também aprender Web Design, UX/UI, Design de produto e social media.
-Atualmente atuo como voluntário na EMpresa Junior Cajuí Collad, um estudio colaborativo de dewsign situado na universidade católica de brasília.
+Olá, me chamo Giulia e tenho 18 ano. Sou uma designer visual e ilustradora que reside no Brasil.
+Desenhar sempre foi minha paixão, por isso sempre tive um carinho especial pelo mundo da ilustração, tenho atuado na área de estratégia de marca e identidade visual e já tive experiência também como ilustradora freelancer.
+Pretendo continuar me aprimorando nas áreas que já possuo conhecimento e começar a atuar em outras como: Web Design, UX/UI, Design de produto e social media.
+Atualmente sou voluntária na EMpresa Junior Cajuí Collad, um estudio colaborativo de dessign situado na universidade católica de brasília.
 
-POSSUO CONHECIMENTO EM:
-INGLÊS:
-LER ----_
-ESCREVER----_
-OUVIR ----_
-FALAR ----_
-FERRAMENTAS:
+Ferramentas:
 FIGMA -----_
 ILLUSTRATOR ---__
 CLIP STUDIO PAINT ----_
 PHOTOSHOP --___
 
 -GALERIA:
-projetos:
-(IDENTIDADE VISUAL DO CAFÉ ARTE)
-ilustrações:
-(FOTOS DAS MINHAS ILUSTRAÇÕES COM NOME E DESCRIÇÕES)
-MORE...?
+. Ilustrações digitais:
+. Arte tradicional
+. Outros porjetos
 
 -CONTATO:
-Entre em contato para dúvidas, sugestões e orçamentos preenchendo o formulário abaixo:
+Entre em contato comigo para dúvidas, sugestões e orçamentos preenchendo o formulário abaixo:
 
 Seu nome:
-e-mail:
-assunto:
-testo:
-telefone:
+e-mail:      
+mensagem:
 enviar
 
 cores:
