@@ -1,0 +1,108 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #474244;
+    color: #F7DCE8;
+}
+
+#logo{
+    display: flex;
+    padding-right: 32%;
+    width: 10%;
+    height: 53%;
+}
+
+    nav{ 
+    height: 90px;
+    width: 100%;
+    background-color: #F7DCE8;
+    display: flex;
+    align-items: center;  
+    justify-content: flex-end;
+    }
+
+    
+    a{
+        margin-right: 6%;
+        font-size: 200%;
+        font-weight: bolder;
+        font-family: Cantora One;
+        color: #474244; 
+    }
+    a:link{
+        text-decoration: none;
+    }
+    #header{
+        letter-spacing:2px;
+        padding-top: 6.5%;
+        padding-left: 5%;
+        float: left;
+        color: #FCC7D1;
+    }
+    #h1index{
+        font-family: Cantora One;
+        font-size: 420%;
+        line-height: 10%;
+    }
+    #h2index{
+        font-family: Cantora One;
+        font-size: 400%;
+        line-height: 10%;
+    }
+    #h3index{
+        font-family: Cantora One;
+        font-size: 200%;
+        line-height: 110%;
+    }
+
+    #pindex{
+        font-family: Cantora One;
+        font-size: 120%;
+        line-height: 110%;
+    }
+    #buttonindex{
+        font-weight: bolder;
+        text-align: center;
+        letter-spacing: 2px;
+        font-family: Cantora One;
+        font-size: 68%;
+        height: 80px;
+        width: 80%;
+        border-radius: 40px;
+        background-color: #F7DCE8;
+        color: #474244;
+    }
+    #capa{
+       width: 52%;
+        padding-right: 6%;
+        padding-top: 7%;
+        float: right;
+        border-bottom-left-radius: 50px
+    }
+    #eu{
+        padding-top: 4%;
+        padding-left: 4.5%;
+        border-bottom-right-radius: 50px;
+        
+    }
+    #sobre{
+        font-family: Cantora One;
+        float: right;
+        padding-top: 8%;
+        font-size: 130%;
+        width: 50%;
+        text-align: justify;
+        padding-right: 6%;
+        line-height: 120%;
+    }
+     #imagem{
+        float: left;
+        width: 50%;
+        height: 60%;
+        border-bottom-right-radius: 50px;
+     }
+    #formulario{
+    
+        float: right;
+    }
